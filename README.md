@@ -2,6 +2,11 @@
 
 A powerful document summarization application that leverages Large Language Models to create concise summaries of long texts. Built with FastAPI, Streamlit, and HuggingFace Transformers.
 
+> ![image](https://github.com/user-attachments/assets/a384ffb3-2282-470f-8055-e00e19bd7068)
+
+
+> ![image](https://github.com/user-attachments/assets/5e35a92f-3535-47fc-8f03-354667af0a0d)
+
 ## 🌟 Features
 
 - **Smart Text Summarization**: Efficiently summarizes long documents while preserving key information
@@ -107,3 +112,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - HuggingFace Transformers
 - FastAPI
 - Streamlit
+
+
+
+
+
